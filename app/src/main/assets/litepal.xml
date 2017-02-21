@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="tjtc_weather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.tjtcweather.android.db.Province" />
+        <mapping class="com.tjtcweather.android.db.City" />
+        <mapping class="com.tjtcweather.android.db.County" />
+    </list>
+
+</litepal>
